@@ -1,0 +1,19 @@
+n = 31
+Size of A = 961 by 961
+Number of nonzeros = 4681
+Number of multigrid levels = 4
+
+Residual norms:
+V-cycle  0: 3.098402e+01
+V-cycle  1: 9.675038e-01
+V-cycle  2: 7.261083e-02
+V-cycle  3: 5.878160e-03
+V-cycle  4: 4.949804e-04
+V-cycle  5: 4.268371e-05
+V-cycle  6: 3.740669e-06
+V-cycle  7: 3.318016e-07
+V-cycle  8: 2.971654e-08
+V-cycle  9: 2.682927e-09
+V-cycle 10: 2.438889e-10
+V-cycle 11: 2.230149e-11
+V-cycle 12: 2.049859e-12
